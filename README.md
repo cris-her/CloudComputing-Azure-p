@@ -1,5 +1,5 @@
 # Introducción a la Nube con Azure
-¿Qué es la nube y por qué es importante?  
+**¿Qué es la nube y por qué es importante?**  
 Características del cómputo en la nube  
 Origen del cómputo en la nube  
 Modelos de servicio: IaaS, PaaS, SaaS... Everything as a Service  
@@ -17,3 +17,4 @@ Creando una cuenta de Azure
 Azure Portal: mando de control (dashboard)  
 Crear una instancia en Azure  
 ¿Qué sigue después?  
+
